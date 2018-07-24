@@ -1,0 +1,11 @@
+C:\Users\Tyrone\source\repos\Test1707\Test1707\obj\Debug\netcoreapp2.0\Test1707.csproj.CoreCompileInputs.cache
+C:\Users\Tyrone\source\repos\Test1707\Test1707\obj\Debug\netcoreapp2.0\Test1707.AssemblyInfoInputs.cache
+C:\Users\Tyrone\source\repos\Test1707\Test1707\obj\Debug\netcoreapp2.0\Test1707.AssemblyInfo.cs
+C:\Users\Tyrone\source\repos\Test1707\Test1707\bin\Debug\netcoreapp2.0\Test1707.deps.json
+C:\Users\Tyrone\source\repos\Test1707\Test1707\bin\Debug\netcoreapp2.0\Test1707.runtimeconfig.json
+C:\Users\Tyrone\source\repos\Test1707\Test1707\bin\Debug\netcoreapp2.0\Test1707.runtimeconfig.dev.json
+C:\Users\Tyrone\source\repos\Test1707\Test1707\bin\Debug\netcoreapp2.0\Test1707.dll
+C:\Users\Tyrone\source\repos\Test1707\Test1707\bin\Debug\netcoreapp2.0\Test1707.pdb
+C:\Users\Tyrone\source\repos\Test1707\Test1707\obj\Debug\netcoreapp2.0\Test1707.dll
+C:\Users\Tyrone\source\repos\Test1707\Test1707\obj\Debug\netcoreapp2.0\Test1707.pdb
+C:\Users\Tyrone\source\repos\Test1707\Test1707\obj\Debug\netcoreapp2.0\Test1707.csprojAssemblyReference.cache
